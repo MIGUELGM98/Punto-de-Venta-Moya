@@ -1,0 +1,48 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaDatos\bin\Debug\CapaDatos.dll.config
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll.config
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.dll
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaDatos\obj\Debug\CapaDatos.pdb

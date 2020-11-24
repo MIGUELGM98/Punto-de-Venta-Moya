@@ -1,0 +1,62 @@
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\MOYA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\AVANCES\AVANCE 5 01-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\AVANCES\AVANCE 7 05-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\AVANCES\AVANCE 8 08-11-2018 FINAL\MOYA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\AVANCES\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\AVANCES\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\usuario\Desktop\6TO SEMESTRE\PELICULAS\SISTEMA FINAL TERMINADO\12-11-2018\MOYA\CapaNegocio\obj\Debug\CapaNegocio.pdb
